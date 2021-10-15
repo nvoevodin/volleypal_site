@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/volleypal_site/static/css/main.6da26629.chunk.css",
+    "main.js": "/volleypal_site/static/js/main.e333928d.chunk.js",
+    "main.js.map": "/volleypal_site/static/js/main.e333928d.chunk.js.map",
+    "runtime-main.js": "/volleypal_site/static/js/runtime-main.40d3369a.js",
+    "runtime-main.js.map": "/volleypal_site/static/js/runtime-main.40d3369a.js.map",
+    "static/js/2.95325a64.chunk.js": "/volleypal_site/static/js/2.95325a64.chunk.js",
+    "static/js/2.95325a64.chunk.js.map": "/volleypal_site/static/js/2.95325a64.chunk.js.map",
+    "index.html": "/volleypal_site/index.html",
+    "precache-manifest.f08abea7a25e81bde6948ecf91263967.js": "/volleypal_site/precache-manifest.f08abea7a25e81bde6948ecf91263967.js",
+    "service-worker.js": "/volleypal_site/service-worker.js",
+    "static/css/main.6da26629.chunk.css.map": "/volleypal_site/static/css/main.6da26629.chunk.css.map",
+    "static/js/2.95325a64.chunk.js.LICENSE.txt": "/volleypal_site/static/js/2.95325a64.chunk.js.LICENSE.txt",
+    "static/media/Volleyball.jpg": "/volleypal_site/static/media/Volleyball.2a5beb11.jpg",
+    "static/media/chat.png": "/volleypal_site/static/media/chat.9e77f9d4.png",
+    "static/media/style.scss": "/volleypal_site/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/event.png": "/volleypal_site/static/media/event.502f84f6.png",
+    "static/media/logo.svg": "/volleypal_site/static/media/logo.5d5d9eef.svg",
+    "static/media/lost.png": "/volleypal_site/static/media/lost.292a4224.png",
+    "static/media/map.png": "/volleypal_site/static/media/map.ff05dc4d.png",
+    "static/media/resume.png": "/volleypal_site/static/media/resume.77df3f1d.png",
+    "static/media/vol1.jpeg": "/volleypal_site/static/media/vol1.d13c52f5.jpeg",
+    "static/media/vol2.jpeg": "/volleypal_site/static/media/vol2.b39bdeed.jpeg",
+    "static/media/volleyball.png": "/volleypal_site/static/media/volleyball.cbcc67be.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40d3369a.js",
+    "static/js/2.95325a64.chunk.js",
+    "static/css/main.6da26629.chunk.css",
+    "static/js/main.e333928d.chunk.js"
+  ]
+}
